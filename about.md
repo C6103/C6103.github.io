@@ -8,4 +8,4 @@ A personalized blog documenting my thoughts, usually but not necessarily on tech
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[chloeduncan@disroot.org](mailto:chloeduncan@disroot.org)
