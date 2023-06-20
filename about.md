@@ -4,11 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+A personalized blog documenting my thoughts, usually but not necessarily on tech and relevant news.
 
 ### Contact me
 
