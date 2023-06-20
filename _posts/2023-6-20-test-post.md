@@ -1,7 +1,7 @@
 ---
 layout: post
-title: You're up and running!
+title: Test Post
 ---
 
-# Test
+## Test Header
 make sure this is working!
